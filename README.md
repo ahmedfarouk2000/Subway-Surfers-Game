@@ -1,8 +1,7 @@
 # Subway-Surfece-Game :running: 
-![ezgif com-video-to-gif (1)](https://user-images.githubusercontent.com/93868173/232160673-6ea59fa7-4739-4fb5-afb1-72b4a5e1ed9b.gif)
 
 <div align="center">
-     <img src="https://user-images.githubusercontent.com/93868173/232160673-6ea59fa7-4739-4fb5-afb1-72b4a5e1ed9b.gif" data-canonical-src="https://user-images.githubusercontent.com/93868173/196001758-ac86be01-75b6-4606-b620-963113c6f9a4.jpg" width="400" height="400"/>
+     <img src="https://user-images.githubusercontent.com/93868173/232160673-6ea59fa7-4739-4fb5-afb1-72b4a5e1ed9b.gif" data-canonical-src="https://user-images.githubusercontent.com/93868173/196001758-ac86be01-75b6-4606-b620-963113c6f9a4.jpg"/>
 
 </div>
 
