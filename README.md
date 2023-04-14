@@ -1,11 +1,11 @@
-# Subway-Surfece-Game
+# Subway-Surfece-Game :running: 
 
 
 
 ## Game Description
 The aim of Rush Road is to achieve the heighest score while dodging oncoming obstacles. 
 Jumping over obstacles  on the way increase the player score depending on the obstacle type. 
-Many collectables along the road includes orbs and potions gives you advantage to live and play longer. Have FUN Playing!!
+Many collectables along the road includes orbs and potions gives you advantage to live and play longer. Have FUN Playing!! :clap: :fire:
 
 ## Visual Representation
 
