@@ -18,7 +18,10 @@ Many collectables along the road includes orbs and potions gives you advantage t
 
 https://user-images.githubusercontent.com/93868173/232156096-5aa53bef-bf8a-415e-afe4-89e7ae778f4b.mp4
 
+<div align="center">
+https://user-images.githubusercontent.com/93868173/232156096-5aa53bef-bf8a-415e-afe4-89e7ae778f4b.mp4
 
+  </div>
 
 
 
