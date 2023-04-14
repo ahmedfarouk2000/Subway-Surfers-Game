@@ -11,7 +11,7 @@ The aim of Rush Road is to achieve the heighest score while dodging oncoming obs
 Jumping over obstacles  on the way increase the player score depending on the obstacle type. 
 Many collectables along the road includes orbs and potions gives you advantage to live and play longer. Have FUN Playing!! :clap: :fire:
 - Game fully created with unity engine. :video_game:
-- Here are the game build link for windows and android versions :point_right: https://drive.google.com/file/d/1CmtW6DJqh0YY7xGCUUcUTu5eZqSNSnSI/view?usp=sharing
+- Here is the game build link for windows and android versions :point_right: https://drive.google.com/file/d/1CmtW6DJqh0YY7xGCUUcUTu5eZqSNSnSI/view?usp=sharing
 
 ## Visual Representation
 
